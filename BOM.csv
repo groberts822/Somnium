@@ -1,0 +1,11 @@
+Part,Notes,Qty,Est Cost USD
+ESP32 dev board (any 30-pin),Handles WiFi + drives display over SPI,1,$4
+2.8" ILI9341 TFT display,320x240 SPI — easy to find on AliExpress/Amazon,1,$8
+Micro USB breakout or existing on board,Power input,1,$0
+5V 1A USB power supply or phone charger,Permanent bedside power,1,$5 (or use one you have)
+3D printed enclosure,~100g PLA/PETG,1,$3
+2mm clear acrylic sheet (small piece),Display window,1,$2
+M3 heat-set inserts x4,For enclosure assembly,4,$1
+Dupont wires / jumper wires,Connecting display to ESP32,1 pack,$2
+USB cable (micro or type-C depending on board),Power + flashing firmware,1,$0 (use one you have)
+Total,,,~$25
