@@ -12,11 +12,11 @@ part, notes, approx cost
 ESP32 dev board, any standard 30-pin and has wifi built in, $4
 2.8" ILI9341 TFT320×240 SPI display, dead simple to wire, $8
 USB power supply, 5V 1A plugged in permanently $5
-3D printed enclosure, ~100g PLA or PETG, $3
+3D printed enclosure, around 100g PLA or PETG, $3
 2mm clear acrylic, small piece for display window, $2
 M3 heat-set inserts ×4, for screwing the shells together, $1
 jumper wires, general wires for connecting display to ESP32
-total~$25
+total around $25
 
 wiring
 TFT pin, ESP32 pin
